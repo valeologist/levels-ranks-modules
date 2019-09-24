@@ -1,0 +1,67 @@
+﻿"Phrases"
+{
+	"TOPGeneral"
+	{
+		"en"		"TOP-10 by kills"
+		"ru"		"TOP-10 по киллам"
+		"ua"		"TOP-10 по вбивствам"
+		"chi"		"击杀排名前十"
+	}
+	"TOPGeneralCount"
+	{
+		"en"		"TOP-10 by total count"
+		"ru"		"TOP-10 по общему кол-ву"
+		"ua"		"TOP-10 за загальною кількістю"
+		"chi"		"击杀总数排名前十"
+	}
+	"TOPGeneralWeapon"
+	{
+		"en"		"TOP-10 by weapons"
+		"ru"		"TOP-10 по оружиям"
+		"ua"		"TOP-10 по зброї"
+		"chi"		"常用武器排名前十"
+	}
+	"TOPWeapon"
+	{
+		"#format"	"{1:s}"
+		"en"		"TOP-10 by {1}"
+		"ru"		"TOP-10 по {1}"
+		"ua"		"TOP-10 по {1}"
+		"chi"		"{1}击杀排名前十"
+	}
+	"TOPList"
+	{
+		"#format"	"{1:i},{2:i},{3:s}"
+		"en"		"{1} - {2} kills - {3}"
+		"ru"		"{1} - {2} Киллов - {3}"
+		"ua"		"{1} - {2} Вбивств - {3}"
+		"chi"		"{1} - {2} 击杀数 - {3}"
+	}
+	"DataAllWeapons"
+	{
+		"en"		"Weapon statistics"
+		"ru"		"Статистика по оружиям"
+		"ua"		"Статистика по зброї"
+		"chi"		"武器统计"
+	}
+	"DataAllWeaponsList"
+	{
+		"#format"	"{1:s},{2:i},{3:i}"
+		"en"		"{1} - {2} kills ({3}%%)"
+		"ru"		"{1} - {2} Киллов ({3}%%)"
+		"ua"		"{1} - {2} Вбивств ({3}%%)"
+		"chi"		"{1} - {2} 击杀数 ({3}%%)"
+	}
+	"DataAllWeaponsNone"
+	{
+		"en"		"No data!"
+		"ru"		"Нет данных!"
+	}
+	"Back"
+	{
+		"en"		"Back"
+		"ru"		"Назад"
+		"ua"		"Назад"
+		"chi"		"返回"
+	}
+}
