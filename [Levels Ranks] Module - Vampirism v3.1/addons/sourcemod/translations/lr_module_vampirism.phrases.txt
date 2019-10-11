@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"Vamp_Off"
+	{
+		"en"			"Vampirism [off]"
+		"ru"			"Вампиризм [выкл]"
+	}
+	"Vamp_On"
+	{
+		"en"			"Vampirism [on]"
+		"ru"			"Вампиризм [вкл]"
+	}
+	"Vamp_Closed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Vampirism [{1} rank]"
+		"ru"			"Вампиризм [{1} ранг]"
+	}
+}

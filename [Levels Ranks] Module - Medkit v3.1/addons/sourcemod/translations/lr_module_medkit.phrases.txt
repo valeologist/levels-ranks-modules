@@ -1,0 +1,34 @@
+﻿"Phrases"
+{
+	"Medkit_OFF"
+	{
+		"#format"		"{1:i}"
+		"en"			"Medkit [{1} rank]"
+		"ru"			"Аптечка [{1} ранг]"
+	}
+	"Medkit_ON"
+	{
+		"en"			"Medkit"
+		"ru"			"Аптечка"
+	}
+	"Alive"
+	{
+		"en"			"{WHITE}You must be alive!"
+		"ru"			"{WHITE}Вы должны быть живы!"
+	}
+	"InTeam"
+	{
+		"en"			"{WHITE}You must be in team!"
+		"ru"			"{WHITE}Вы должны быть в команде!"
+	}
+	"Nothing"
+	{
+		"en"			"{WHITE}You ran out of first aid kits!"
+		"ru"			"{WHITE}У вас закончились аптечки!"
+	}
+	"NoMedic"
+	{
+		"en"			"{WHITE}You do not need medical help for the time being!"
+		"ru"			"{WHITE}Вам пока что не нужна медпомощь!"
+	}
+}

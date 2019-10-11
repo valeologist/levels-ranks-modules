@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"RA_Off"
+	{
+		"en"			"Regen armor [off]"
+		"ru"			"Регенерация брони [выкл]"
+	}
+	"RA_On"
+	{
+		"en"			"Regen armor [on]"
+		"ru"			"Регенерация брони [вкл]"
+	}
+	"RA_RankClosed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Regen armor [{1} rank]"
+		"ru"			"Регенерация брони [{1} ранг]"
+	}
+}

@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"FireDamage_Off"
+	{
+		"en"			"Fire Damage [off]"
+		"ru"			"Пылающий урон [выкл]"
+	}
+	"FireDamage_On"
+	{
+		"en"			"Fire Damage [on]"
+		"ru"			"Пылающий урон [вкл]"
+	}
+	"FireDamage_Closed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Fire Damage [{1} rank]"
+		"ru"			"Пылающий урон [{1} ранг]"
+	}
+}

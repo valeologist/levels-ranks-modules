@@ -1,0 +1,37 @@
+﻿"Phrases"
+{
+	"MapStatisticsButton"
+	{
+		"en"		"Map statistics"
+		"ru"		"Статистика по карте"
+	}
+	"MapStatistics"
+	{
+		"#format"	"{1:s},{2:02d},{3:02d},{4:02d},{5:i},{6:s}"
+		"en"		"Map statistics\n \nName map: {1} \nPlayed on map: {2} h {3} m {4} sec \nWin Rate on map: {5} %%\n \n{6}"
+		"ru"		"Статистика по карте\n \nНазвание карты: {1} \nСыграно на карте: {2} ч {3} м {4} сек \nВинрейт на карте: {5} %%\n \n{6}"
+	}
+	"MapStatistics_Cs"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"Hostage rescued: {1} \nHostage killed: {2}"
+		"ru"		"Заложников спасено: {1} \nЗаложников убито: {2}"
+	}
+	"MapStatistics_De"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"Bomb planted: {1} \nBomb defused: {2}"
+		"ru"		"Бомб установлено: {1} \nБомб разминировано: {2}"
+	}
+	"MapStatistics_Custom"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"Rounds won \nRounds for CT: {1} \nRounds for T: {2}"
+		"ru"		"Выигранные раунды \nРаундов за КТ: {1} \nРаундов за Т: {2}"
+	}
+	"Back"
+	{
+		"en"		"Back"
+		"ru"		"Назад"
+	}
+}

@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"Defuser_Off"
+	{
+		"en"			"Defuser [off]"
+		"ru"			"Дефузер [выкл]"
+	}
+	"Defuser_On"
+	{
+		"en"			"Defuser [on]"
+		"ru"			"Дефузер [вкл]"
+	}
+	"Defuser_Closed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Defuser [{1} rank]"
+		"ru"			"Дефузер [{1} ранг]"
+	}
+}

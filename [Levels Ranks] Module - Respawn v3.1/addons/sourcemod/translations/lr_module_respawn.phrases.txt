@@ -1,0 +1,9 @@
+﻿"Phrases"
+{
+	"Respawn"
+	{
+		"#format"	"{1:i}"
+		"en"		"Use Respawn ({1})"
+		"ru"		"Возродиться ({1})"
+	}
+}

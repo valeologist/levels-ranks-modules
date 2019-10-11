@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"RH_Off"
+	{
+		"en"			"Regen HP [off]"
+		"ru"			"Регенерация HP [выкл]"
+	}
+	"RH_On"
+	{
+		"en"			"Regen HP [on]"
+		"ru"			"Регенерация HP [вкл]"
+	}
+	"RH_RankClosed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Regen HP [{1} rank]"
+		"ru"			"Регенерация HP [{1} ранг]"
+	}
+}

@@ -1,0 +1,19 @@
+﻿"Phrases"
+{
+	"Tagrenade_Off"
+	{
+		"en"			"Tagrenade [off]"
+		"ru"			"Тактическая граната [выкл]"
+	}
+	"Tagrenade_On"
+	{
+		"en"			"Tagrenade [on]"
+		"ru"			"Тактическая граната [вкл]"
+	}
+	"Tagrenade_RankClosed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Tagrenade [{1} rank]"
+		"ru"			"Тактическая граната [{1} ранг]"
+	}
+}

@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"NoFallDamage_Off"
+	{
+		"en"			"NoFallDamage [off]"
+		"ru"			"Нет урона от мира [выкл]"
+	}
+	"NoFallDamage_On"
+	{
+		"en"			"NoFallDamage [on]"
+		"ru"			"Нет урона от мира [вкл]"
+	}
+	"NoFallDamage_Closed"
+	{
+		"#format"		"{1:i}"
+		"en"			"NoFallDamage [{1} rank]"
+		"ru"			"Нет урона от мира [{1} ранг]"
+	}
+}

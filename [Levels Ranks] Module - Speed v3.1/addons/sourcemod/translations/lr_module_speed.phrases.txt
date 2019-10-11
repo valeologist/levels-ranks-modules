@@ -1,0 +1,21 @@
+﻿"Phrases"
+{
+	"Speed_Off"
+	{
+		"#format"		"{1:.1f}"
+		"en"			"Speed x{1} [off]"
+		"ru"			"Скорость x{1} [выкл]"
+	}
+	"Speed_On"
+	{
+		"#format"		"{1:.1f}"
+		"en"			"Speed x{1} [on]"
+		"ru"			"Скорость x{1} [вкл]"
+	}
+	"Speed_RankClosed"
+	{
+		"#format"		"{1:.1f},{2:i}"
+		"en"			"Speed x{1} [{2} rank]"
+		"ru"			"Скорость x{1} [{2} ранг]"
+	}
+}

@@ -1,0 +1,14 @@
+﻿"Phrases"
+{
+	"Skins"
+	{
+		"#format"		"{1:i}"
+		"en"			"Skins ({1})"
+		"ru"			"Скины ({1})"
+	}
+	"SkinsDefault"
+	{
+		"en"			"Default skin"
+		"ru"			"Стандартный cкин"
+	}
+}

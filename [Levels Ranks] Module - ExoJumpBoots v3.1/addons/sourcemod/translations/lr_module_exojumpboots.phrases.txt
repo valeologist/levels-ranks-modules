@@ -1,0 +1,19 @@
+﻿"Phrases"
+{
+	"ExoJumpBoots_Off"
+	{
+		"en"			"Exo Jump Boots [off]"
+		"ru"			"Экзо-ботинки [выкл]"
+	}
+	"ExoJumpBoots_On"
+	{
+		"en"			"Exo Jump Boots [on]"
+		"ru"			"'Экзо-ботинки [вкл]"
+	}
+	"ExoJumpBoots_RankClosed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Exo Jump Boots [{1} rank]"
+		"ru"			"Экзо-ботинки [{1} ранг]"
+	}
+}

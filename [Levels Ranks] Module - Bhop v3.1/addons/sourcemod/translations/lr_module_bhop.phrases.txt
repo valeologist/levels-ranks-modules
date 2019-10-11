@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"Bhop_Off"
+	{
+		"en"			"Bhop [off]"
+		"ru"			"Распрыжка [выкл]"
+	}
+	"Bhop_On"
+	{
+		"en"			"Bhop [on]"
+		"ru"			"Распрыжка [вкл]"
+	}
+	"Bhop_Closed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Bhop [{1} rank]"
+		"ru"			"Распрыжка [{1} ранг]"
+	}
+}

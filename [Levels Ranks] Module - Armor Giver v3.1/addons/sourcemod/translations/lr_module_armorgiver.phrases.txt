@@ -1,0 +1,21 @@
+﻿"Phrases"
+{
+	"AG_Off"
+	{
+		"#format"		"{1:i}"
+		"en"			"Armor {1} [off]"
+		"ru"			"Броня {1} [выкл]"
+	}
+	"AG_On"
+	{
+		"#format"		"{1:i}"
+		"en"			"Armor {1} [on]"
+		"ru"			"Броня {1} [вкл]"
+	}
+	"AG_RankClosed"
+	{
+		"#format"		"{1:i},{2:i}"
+		"en"			"Armor {1} [{2} rank]"
+		"ru"			"Броня {1} [{2} ранг]"
+	}
+}

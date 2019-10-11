@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"NoSelfDamage_Off"
+	{
+		"en"			"No Self Damage [off]"
+		"ru"			"Нет урона от себя [выкл]"
+	}
+	"NoSelfDamage_On"
+	{
+		"en"			"No Self Damage [on]"
+		"ru"			"Нет урона от себя [вкл]"
+	}
+	"NoSelfDamage_Closed"
+	{
+		"#format"		"{1:i}"
+		"en"			"No Self Damage [{1} rank]"
+		"ru"			"Нет урона от себя [{1} ранг]"
+	}
+}

@@ -1,0 +1,19 @@
+﻿"Phrases"
+{
+	"EE_Off"
+	{
+		"en"			"Electro effect [off]"
+		"ru"			"Электро-эффект [выкл]"
+	}
+	"EE_On"
+	{
+		"en"			"Electro effect [on]"
+		"ru"			"Электро-эффект [вкл]"
+	}
+	"EE_RankClosed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Electro effect [{1} rank]"
+		"ru"			"Электро-эффект [{1} ранг]"
+	}
+}

@@ -1,0 +1,19 @@
+﻿"Phrases"
+{
+	"HealthShot_Off"
+	{
+		"en"			"HealthShot [off]"
+		"ru"			"Хилшот [выкл]"
+	}
+	"HealthShot_On"
+	{
+		"en"			"HealthShot [on]"
+		"ru"			"Хилшот [вкл]"
+	}
+	"HealthShot_RankClosed"
+	{
+		"#format"		"{1:i}"
+		"en"			"HealthShot [{1} rank]"
+		"ru"			"Хилшот [{1} ранг]"
+	}
+}

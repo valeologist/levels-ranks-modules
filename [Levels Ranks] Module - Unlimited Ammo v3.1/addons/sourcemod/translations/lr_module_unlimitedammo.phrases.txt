@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"Unlim_Off"
+	{
+		"en"			"Unlim.Ammo [off]"
+		"ru"			"Беск.Патроны [выкл]"
+	}
+	"Unlim_On"
+	{
+		"en"			"Unlim.Ammo [on]"
+		"ru"			"Беск.Патроны [вкл]"
+	}
+	"Unlim_Closed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Unlim.Ammo [{1} rank]"
+		"ru"			"Беск.Патроны [{1} ранг]"
+	}
+}
